@@ -4,7 +4,9 @@ body {
   background: #23252C;
   justify-content: center;
   align-content: center;
+  height:1000px;
 }
+
 
 #root {
   display: flex;
@@ -17,6 +19,7 @@ body {
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
+    background: #23252C;
 }
 
 
