@@ -1,6 +1,4 @@
-# digital-card-project-react
- 
-## Project: Digital Business Card
+# Project: Digital Business Card
 
 A digital business card with information about myself, my interests and my social links.
 
