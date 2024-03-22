@@ -2,7 +2,7 @@
  
 Project: Digital Business Card
 
-A digital business card with information about my myself, my interests and my social links.
+A digital business card with information about myself, my interests and my social links.
 
 Project Screen Shot(s)
 
@@ -14,12 +14,13 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Installation:
 
-npm install
+Run the command: npm install
 
 To Start Server:
 
 npm run dev
 
 To Visit App:
+http://localhost:5174
 
-localhost:5174
+App can only be visited when server is already running
